@@ -1,0 +1,27 @@
+# Configurações de VPN do TryHackMe / Hack The Box (contêm suas credenciais)
+*.ovpn
+
+# Capturas de tráfego e dumps (podem conter dados sensíveis e são pesados)
+*.pcap
+*.pcapng
+*.cap
+*.dmp
+
+# Hashes, wordlists e senhas
+*.hash
+hashes/
+wordlists/
+*.potfile
+
+# Imagens de VM
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.iso
+
+# Sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
