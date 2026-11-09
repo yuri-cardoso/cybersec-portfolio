@@ -21,7 +21,7 @@ Registro prático da minha jornada em segurança da informação: laboratórios,
 | # | Documento | Status |
 |---|---|---|
 | 01 | [Instalação do Kali Linux em máquina de laboratório dedicada](homelab/01-instalacao-kali-acer.md) | ✅ Concluído |
-| 02 | [Laboratório de alvos com rede isolada](homelab/02-laboratorio-alvos.md) | ⚪ Planejado |
+| 02 | [Laboratório de alvos com rede isolada](homelab/02-laboratorio-alvos.md) | 🟡 Em andamento |
 
 ## 📚 Livros
 
